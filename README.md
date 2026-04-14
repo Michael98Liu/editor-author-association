@@ -1,6 +1,3 @@
-# Current policies governing editorial conflicts of interest are ineffective
-
-
 ## System and software requirements
 The project was created and executed on the NYU High Performance Computing (HPC) cluster [Greene](https://sites.google.com/a/nyu.edu/nyu-hpc/systems/greene-cluster). The code in this repo can run on any commercial laptop with Python 3 installed.
 
