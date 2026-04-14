@@ -1,0 +1,289 @@
+StartDate,TRUST_FINDING_1,TRUST_AUTHOR_1,TRUST_FINDING_2,TRUST_AUTHOR_2,TRUST_FINDING_3,TRUST_AUTHOR_3,Q66,Q65,Q67,Q68,condition,counter
+2024-11-02 10:50:32,Agree,Agree,Disagree,Disagree,Strongly agree,Agree,40,Male,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",1,4
+2024-11-02 11:04:22,Agree,Agree,Somewhat agree,Somewhat agree,Agree,Agree,40,Male,Hispanic/Lantinx,4 year degree (Bachelor's),1,4
+2024-11-02 11:15:29,Somewhat agree,Neutral,Neutral,Somewhat agree,Somewhat agree,Somewhat agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-02 11:21:40,Neutral,Agree,Somewhat agree,Strongly agree,Agree,Neutral,1998,Male,Asian or Asian American,4 year degree (Bachelor's),1,4
+2024-11-02 11:56:28,Agree,Strongly agree,Somewhat agree,Agree,Strongly agree,Agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),1,4
+2024-11-02 14:12:31,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-02 14:22:58,Strongly agree,Agree,Agree,Agree,Agree,Strongly agree,29,Male,White,4 year degree (Bachelor's),1,4
+2024-11-02 17:48:15,Somewhat agree,Agree,Disagree,Somewhat disagree,Neutral,Somewhat agree,42,Male,White,4 year degree (Bachelor's),1,4
+2024-11-02 19:10:19,Strongly agree,Agree,Strongly agree,Agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-03 00:25:07,Agree,Agree,Agree,Agree,Agree,Agree,41,Female,White,4 year degree (Bachelor's),1,4
+2024-11-05 14:43:14,Somewhat agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Somewhat agree,30,Male,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-05 14:43:46,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-05 15:02:18,Agree,Strongly agree,Agree,Agree,Agree,Agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),1,4
+2024-11-05 15:15:01,Agree,Agree,Somewhat agree,Agree,Agree,Agree,56,Male,White,4 year degree (Bachelor's),2,4
+2024-11-05 15:39:32,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,29,Male,White,4 year degree (Bachelor's),1,4
+2024-11-05 15:43:24,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),1,4
+2024-11-05 15:52:35,Agree,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,39,Male,White,4 year degree (Bachelor's),1,4
+2024-11-05 16:16:18,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-05 16:22:52,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-05 17:14:58,Somewhat agree,Strongly agree,Agree,Somewhat agree,Strongly agree,Somewhat agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-05 17:19:23,Neutral,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,30,Male,White,4 year degree (Bachelor's),2,4
+2024-11-05 17:20:16,Somewhat agree,Agree,Agree,Somewhat agree,Agree,Somewhat agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-05 17:59:22,Somewhat agree,Neutral,Somewhat agree,Neutral,Somewhat agree,Neutral,41,Male,White,4 year degree (Bachelor's),2,4
+2024-11-05 18:01:27,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-05 18:08:51,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-05 18:14:30,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-05 18:39:12,Neutral,Agree,Agree,Agree,Agree,Somewhat agree,48,Female,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",1,4
+2024-11-05 18:44:26,Agree,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,25,Male,White,4 year degree (Bachelor's),2,4
+2024-11-05 18:52:41,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-05 20:14:42,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-05 21:15:14,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,28,Female,White,4 year degree (Bachelor's),1,4
+2024-11-05 21:19:00,Agree,Agree,Agree,Strongly agree,Agree,Agree,28,Female,White,4 year degree (Bachelor's),2,4
+2024-11-05 21:27:41,Strongly agree,Agree,Agree,Agree,Agree,Somewhat agree,54,Female,White,4 year degree (Bachelor's),2,4
+2024-11-05 21:30:58,Agree,Somewhat agree,Strongly agree,Somewhat agree,Strongly agree,Strongly agree,27,Female,White,4 year degree (Bachelor's),1,4
+2024-11-05 21:40:46,Strongly agree,Agree,Agree,Agree,Somewhat agree,Agree,59,Female,White,4 year degree (Bachelor's),1,4
+2024-11-05 21:43:30,Agree,Agree,Somewhat agree,Somewhat agree,Agree,Agree,57,Female,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",2,4
+2024-11-05 21:46:21,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Strongly agree,Strongly agree,32,Female,White,4 year degree (Bachelor's),1,4
+2024-11-05 23:11:01,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,26,Male,White,4 year degree (Bachelor's),2,4
+2024-11-05 23:29:10,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-05 23:35:54,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-05 23:43:26,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,26,Male,White,4 year degree (Bachelor's),1,4
+2024-11-05 23:49:42,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,26,Male,White,4 year degree (Bachelor's),2,4
+2024-11-06 00:55:14,Somewhat agree,Neutral,Neutral,Somewhat agree,Somewhat agree,Neutral,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-06 01:20:37,Somewhat agree,Neutral,Somewhat agree,Neutral,Somewhat agree,Neutral,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-06 01:39:01,Somewhat agree,Neutral,Somewhat agree,Neutral,Neutral,Somewhat agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-06 02:50:22,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-06 02:55:57,Agree,Strongly agree,Agree,Somewhat agree,Agree,Somewhat agree,28,Male,White,4 year degree (Bachelor's),1,4
+2024-11-06 03:03:21,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-06 03:58:30,Somewhat agree,Agree,Strongly agree,Strongly agree,Agree,Agree,28,Female,White,4 year degree (Bachelor's),1,4
+2024-11-06 05:51:02,Agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Neutral,23,Male,White,4 year degree (Bachelor's),2,4
+2024-11-06 05:53:39,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-06 06:21:55,Agree,Strongly agree,Neutral,Agree,Agree,Agree,26,Female,White,4 year degree (Bachelor's),1,4
+2024-11-06 06:43:15,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,26,Male,White,4 year degree (Bachelor's),1,4
+2024-11-06 10:50:50,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-20 21:46:34,Agree,Strongly agree,Neutral,Agree,Agree,Strongly agree,32,Female,White,4 year degree (Bachelor's),2,4
+2024-11-20 21:48:15,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Somewhat agree,Neutral,27,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 21:51:47,Somewhat agree,Agree,Agree,Neutral,Agree,Agree,48,Male,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",2,4
+2024-11-20 21:53:55,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,Somewhat agree,32,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 21:59:20,Strongly agree,Neutral,Strongly agree,Neutral,Agree,Neutral,1975,Male,White,Some college (no degree),2,4
+2024-11-20 22:04:49,Neutral,Agree,Agree,Agree,Agree,Agree,1997,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:08:46,Agree,Disagree,Agree,Disagree,Agree,Disagree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:11:42,Agree,Neutral,Agree,Somewhat agree,Strongly agree,Neutral,48,Male,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",2,4
+2024-11-20 22:17:45,Agree,Agree,Agree,Agree,Agree,Agree,1998,Female,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:19:08,Strongly agree,Agree,Agree,Strongly agree,Agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:24:08,Agree,Disagree,Agree,Disagree,Agree,Disagree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:25:40,Agree,Agree,Agree,Agree,Agree,Strongly agree,35,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:28:26,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,28,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:31:27,Somewhat agree,Agree,Agree,Somewhat agree,Somewhat agree,Agree,1990,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:32:05,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:35:36,Somewhat agree,Agree,Somewhat agree,Agree,Agree,Strongly agree,27,Female,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:37:06,Agree,Agree,Agree,Strongly agree,Agree,Agree,28,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:38:24,Agree,Disagree,Agree,Disagree,Agree,Disagree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 22:47:37,Somewhat agree,Agree,Somewhat agree,Agree,Agree,Agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-20 22:55:48,Strongly agree,Strongly agree,Somewhat agree,Agree,Agree,Agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-20 22:57:06,Somewhat agree,Agree,Agree,Somewhat agree,Agree,Somewhat agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 23:02:43,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,30,Female,White,4 year degree (Bachelor's),2,4
+2024-11-20 23:06:05,Somewhat agree,Agree,Agree,Somewhat agree,Agree,Somewhat agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 23:13:02,Somewhat agree,Agree,Somewhat agree,Agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 23:16:58,Agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 23:17:13,Agree,Agree,Agree,Agree,Agree,Agree,1998,Female,White,4 year degree (Bachelor's),2,4
+2024-11-20 23:21:04,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,30,Female,White,4 year degree (Bachelor's),2,4
+2024-11-20 23:32:33,Agree,Agree,Agree,Somewhat agree,Agree,Somewhat agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-20 23:38:42,Somewhat agree,Agree,Agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-21 00:13:59,Somewhat agree,Agree,Somewhat agree,Agree,Somewhat agree,Agree,1988,Male,White,4 year degree (Bachelor's),2,4
+2024-11-21 00:46:42,Agree,Neutral,Somewhat agree,Neutral,Somewhat agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-21 00:50:35,Agree,Somewhat agree,Agree,Neutral,Agree,Neutral,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-21 00:55:53,Agree,Somewhat agree,Agree,Somewhat agree,Agree,Somewhat agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-21 01:07:54,Strongly agree,Agree,Somewhat agree,Agree,Agree,Strongly agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-21 01:49:07,Agree,Somewhat agree,Somewhat agree,Agree,Agree,Somewhat agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-21 06:23:51,Somewhat agree,Strongly agree,Strongly agree,Somewhat agree,Strongly agree,Somewhat agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:20:14,Somewhat agree,Agree,Agree,Agree,Agree,Agree,35,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:21:21,Agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,34,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:22:02,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:22:18,Agree,Strongly agree,Strongly disagree,Strongly disagree,Agree,Agree,40,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:22:20,Agree,Agree,Somewhat agree,Agree,Agree,Strongly agree,32,Male,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-22 15:23:24,Somewhat agree,Agree,Strongly agree,Agree,Somewhat agree,Somewhat agree,38,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:23:40,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:24:08,Strongly agree,Strongly agree,Strongly disagree,Strongly disagree,Somewhat disagree,Agree,43,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:25:44,Agree,Agree,Agree,Somewhat agree,Strongly agree,Strongly agree,56,Male,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",1,4
+2024-11-22 15:26:35,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:27:00,Agree,Somewhat agree,Agree,Agree,Somewhat agree,Neutral,35,Female,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:27:37,Agree,Agree,Agree,Agree,Agree,Agree,35,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:27:51,Agree,Agree,Agree,Agree,Agree,Somewhat agree,35,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:28:12,Somewhat agree,Agree,Agree,Somewhat agree,Somewhat agree,Agree,1988,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:30:06,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:31:57,Strongly agree,Agree,Agree,Strongly agree,Agree,Strongly agree,43,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:32:42,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:33:08,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:33:35,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:33:36,Agree,Agree,Agree,Agree,Agree,Agree,35,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:34:37,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:35:02,Neutral,Somewhat agree,Somewhat agree,Neutral,Neutral,Somewhat agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:35:06,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:35:27,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:37:07,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,31,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:41:05,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,39,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:42:18,Agree,Somewhat agree,Somewhat agree,Agree,Somewhat agree,Agree,1988,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:44:42,Neutral,Agree,Neutral,Neutral,Neutral,Neutral,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:45:04,Strongly agree,Neutral,Agree,Agree,Agree,Neutral,31,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 15:45:43,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,35,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 15:59:17,Agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,30,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 16:03:36,Somewhat agree,Agree,Strongly agree,Neutral,Neutral,Strongly agree,25,Female,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-22 16:05:00,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:08:02,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:13:15,Neutral,Somewhat agree,Somewhat agree,Neutral,Somewhat agree,Somewhat agree,35,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:16:09,Strongly agree,Agree,Strongly agree,Agree,Neutral,Strongly agree,33,Male,White,2 year degree (Associate's),1,4
+2024-11-22 16:16:52,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:22:51,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 16:23:49,Somewhat agree,Agree,Somewhat agree,Strongly agree,Strongly agree,Agree,32,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 16:27:20,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:28:33,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,39,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:32:26,Strongly agree,Neutral,Strongly agree,Agree,Somewhat agree,Strongly agree,28,Male,White,2 year degree (Associate's),1,4
+2024-11-22 16:33:07,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:33:45,Somewhat agree,Agree,Somewhat disagree,Disagree,Somewhat disagree,Somewhat disagree,36,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:34:15,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,30,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:34:25,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,39,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:34:30,Agree,Agree,Disagree,Agree,Agree,Agree,35,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:37:18,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,39,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 16:38:01,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:38:07,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:40:13,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,39,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:45:01,Agree,Somewhat agree,Neutral,Somewhat agree,Neutral,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 16:52:01,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:54:00,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:54:41,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 16:58:20,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 16:59:06,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-22 16:59:23,Somewhat agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:01:47,Agree,Somewhat agree,Agree,Somewhat agree,Agree,Somewhat agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 17:04:01,Somewhat agree,Agree,Somewhat agree,Agree,Agree,Somewhat agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:09:26,Agree,Somewhat agree,Somewhat agree,Agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:20:21,Strongly agree,Somewhat agree,Agree,Strongly agree,Agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:21:51,Agree,Agree,Agree,Agree,Agree,Agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:23:51,Agree,Agree,Agree,Agree,Agree,Agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:30:10,Agree,Agree,Agree,Agree,Agree,Agree,34,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 17:36:53,Somewhat disagree,Somewhat agree,Somewhat agree,Agree,Somewhat agree,Agree,34,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 17:39:17,Agree,Agree,Agree,Agree,Agree,Agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:43:29,Strongly agree,Agree,Somewhat agree,Somewhat agree,Neutral,Agree,25,Female,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-22 17:44:29,Agree,Agree,Agree,Agree,Agree,Agree,34,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 17:44:30,Somewhat agree,Neutral,Somewhat agree,Somewhat agree,Agree,Somewhat agree,34,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 17:47:16,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:52:23,Agree,Somewhat agree,Agree,Somewhat agree,Strongly agree,Somewhat agree,25,Non-binary / third gender,Asian or Asian American,Some college (no degree),2,4
+2024-11-22 17:55:18,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 17:58:07,Agree,Agree,Agree,Agree,Agree,Agree,28,Female,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:59:42,Somewhat agree,Somewhat agree,Neutral,Somewhat disagree,Somewhat agree,Somewhat agree,36,Female,White,4 year degree (Bachelor's),1,4
+2024-11-22 17:59:59,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:02:40,Somewhat agree,Agree,Agree,Agree,Agree,Agree,27,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:06:52,Agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,26,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:07:16,Disagree,Disagree,Somewhat disagree,Disagree,Agree,Neutral,30,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:11:17,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:11:59,Strongly agree,Agree,Strongly agree,Agree,Somewhat agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:14:45,Agree,Strongly agree,Agree,Strongly agree,Agree,Agree,24,Female,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:21:09,Agree,Strongly agree,Somewhat agree,Somewhat agree,Neutral,Agree,24,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:21:33,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Somewhat agree,Strongly disagree,30,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:21:52,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Somewhat agree,Strongly disagree,30,Female,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:22:11,Neutral,Somewhat agree,Somewhat disagree,Somewhat disagree,Neutral,Somewhat disagree,41,Male,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",2,4
+2024-11-22 18:29:15,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,30,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:30:37,Strongly agree,Neutral,Neutral,Somewhat agree,Agree,Neutral,30,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:31:51,Somewhat disagree,Disagree,Strongly disagree,Neutral,Neutral,Somewhat disagree,32,Female,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",2,4
+2024-11-22 18:35:56,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:36:25,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:36:45,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:37:08,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:37:33,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:38:15,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:39:22,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:39:49,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:40:25,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:40:26,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:40:46,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,28,Female,Asian or Asian American,4 year degree (Bachelor's),2,4
+2024-11-22 18:41:04,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:41:33,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:41:55,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:41:56,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:42:19,Somewhat disagree,Somewhat disagree,Agree,Neutral,Agree,Strongly agree,30,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:42:35,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:42:36,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:43:11,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:44:00,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:44:08,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Agree,Agree,24,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:44:23,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 18:50:31,Agree,Disagree,Agree,Somewhat disagree,Somewhat agree,Disagree,28,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 18:54:33,Agree,Agree,Strongly agree,Agree,Agree,Strongly agree,39,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 19:02:05,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 19:03:27,Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,28,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 19:03:37,Somewhat agree,Neutral,Somewhat agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 19:09:09,Agree,Agree,Strongly agree,Agree,Agree,Strongly agree,28,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 19:11:58,Somewhat agree,Agree,Agree,Somewhat agree,Agree,Strongly agree,34,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 19:12:13,Strongly agree,Agree,Strongly agree,Agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 19:24:52,Agree,Strongly agree,Agree,Somewhat agree,Somewhat agree,Neutral,33,Male,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",1,4
+2024-11-22 20:31:17,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,30,Male,White,4 year degree (Bachelor's),1,4
+2024-11-22 20:41:40,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,30,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 20:58:44,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 21:09:40,Agree,Somewhat agree,Agree,Agree,Agree,Somewhat agree,25,Male,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",1,4
+2024-11-22 21:27:00,Agree,Strongly agree,Agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-22 22:55:14,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-22 23:16:29,Agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 14:58:23,Agree,Agree,Agree,Agree,Agree,Agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 14:58:30,Strongly agree,Agree,Agree,Agree,Strongly agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 14:59:50,Somewhat agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-23 15:00:52,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,25,Male,Asian or Asian American,4 year degree (Bachelor's),1,4
+2024-11-23 15:02:00,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:05:08,Strongly agree,Agree,Agree,Agree,Agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:18:02,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:18:16,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:22:13,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-23 15:23:22,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:24:53,Somewhat agree,Agree,Agree,Somewhat agree,Neutral,Agree,1963,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:26:31,Agree,Agree,Agree,Agree,Agree,Agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:34:53,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,42,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:43:15,Agree,Disagree,Agree,Somewhat disagree,Agree,Neutral,30,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:56:05,Agree,Somewhat agree,Neutral,Somewhat agree,Agree,Somewhat agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 15:59:20,Strongly agree,Somewhat agree,Neutral,Agree,Neutral,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 16:10:52,Somewhat agree,Agree,Neutral,Somewhat agree,Agree,Agree,35,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 16:11:56,Strongly agree,Agree,Agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 16:13:05,Agree,Somewhat agree,Agree,Agree,Somewhat agree,Agree,25,Female,Asian or Asian American,4 year degree (Bachelor's),1,4
+2024-11-23 16:18:41,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 16:18:56,Somewhat agree,Agree,Somewhat agree,Agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 16:22:52,Somewhat disagree,Neutral,Somewhat agree,Neutral,Neutral,Somewhat agree,35,Male,Middle Eastern or North African,4 year degree (Bachelor's),2,4
+2024-11-23 16:23:19,Agree,Strongly agree,Agree,Strongly agree,Strongly agree,Agree,1999,Male,Asian or Asian American,4 year degree (Bachelor's),1,4
+2024-11-23 16:25:33,Agree,Neutral,Agree,Agree,Neutral,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 16:29:55,Somewhat agree,Strongly agree,Somewhat agree,Agree,Agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 16:31:13,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,Somewhat agree,34,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 17:08:48,Somewhat agree,Strongly agree,Neutral,Strongly agree,Agree,Neutral,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 17:13:00,Strongly agree,Somewhat agree,Neutral,Agree,Agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 17:16:54,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,32,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 17:17:27,Somewhat agree,Agree,Strongly agree,Agree,Somewhat agree,Agree,32,Male,White,4 year degree (Bachelor's),2,4
+2024-11-23 17:20:37,Agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 17:25:49,Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-23 17:29:11,Agree,Somewhat agree,Somewhat agree,Agree,Agree,Strongly agree,1990,Male,White,2 year degree (Associate's),1,4
+2024-11-23 17:32:48,Agree,Strongly agree,Somewhat agree,Agree,Agree,Strongly agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 17:33:32,Agree,Somewhat agree,Somewhat agree,Agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 17:37:54,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Agree,33,Male,White,2 year degree (Associate's),1,4
+2024-11-23 17:39:55,Agree,Somewhat agree,Somewhat agree,Agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 17:43:34,Agree,Somewhat agree,Agree,Somewhat agree,Somewhat agree,Agree,33,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:00:39,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:01:53,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:02:01,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:02:21,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:02:22,Somewhat agree,Somewhat agree,Somewhat disagree,Neutral,Neutral,Somewhat agree,32,Female,White,"Graduate or professional degree (e.g., MSc, PhD, JD, MD)",1,4
+2024-11-23 18:02:37,Agree,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:03:34,Agree,Strongly agree,Agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:04:29,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,39,Male,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:07:59,Agree,Somewhat agree,Agree,Agree,Somewhat agree,Agree,41,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:14:27,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:16:53,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:19:27,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:19:51,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:19:55,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:20:09,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:20:56,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:21:24,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:21:42,Agree,Somewhat agree,Somewhat agree,Agree,Agree,Strongly agree,1990,Male,White,2 year degree (Associate's),1,4
+2024-11-23 18:24:55,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:28:35,Strongly agree,Agree,Strongly agree,Agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:32:14,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:32:26,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),2,4
+2024-11-23 18:32:45,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:33:05,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:35:40,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:35:49,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:35:56,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:42:33,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:42:42,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,24,Male,White,4 year degree (Bachelor's),1,4
+2024-11-23 18:53:39,Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-23 20:30:42,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-24 01:39:31,Somewhat agree,Agree,Strongly agree,Neutral,Somewhat agree,Agree,25,Female,White,4 year degree (Bachelor's),1,4
+2024-11-24 09:57:05,Agree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,27,Female,White,4 year degree (Bachelor's),2,4
